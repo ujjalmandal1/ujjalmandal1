@@ -1,14 +1,14 @@
-<h3 align="left">Hi, I'm Albert Mundu</h3>
-<p>I am pursuing my PhD from IIIT Allahabad, India. I work on Computer Vision, Vision-Text domain. I like to work with PyTorch and TensorFlow/Keras.</p>
+<h3 align="left">Hi, I'm Ujjal Mandal</h3>
+<p>I am pursuing my PhD from IIIT Allahabad, India. I work on Photoacoustics. I like to work with GPU and CUDA.</p>
 
 :fire: Interested to collaborate on the projects covering: 
-- Object Detection
-- Image Scene Graph Generation
-- Visual Understanding
-- Image/Video Captioning
-- Vision-Text
-- GANs
-- Diffusion
+- Photoacoustics
+- GPU
+- MATLAB
+- C, C++
+- CUDA C
+- FFTW3, cuFFT
+- Scattering 
 
 
 
