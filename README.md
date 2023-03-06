@@ -1,5 +1,5 @@
 <h3 align="left">Hi, I'm Ujjal Mandal</h3>
-<p>I am pursuing my PhD from IIIT Allahabad, India. I work on Photoacoustics. I like to work with GPU and CUDA.</p>
+
 
 :fire: Interested to collaborate on the projects covering: 
 - Photoacoustics
