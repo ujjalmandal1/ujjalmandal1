@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-Here are some ideas to get you started:
+                                          𝐏𝐫𝐨𝐠𝐫𝐚𝐦𝐦𝐞𝐫 | 𝐑𝐞𝐬𝐞𝐚𝐫𝐜𝐡 𝐒𝐜𝐡𝐨𝐥𝐚𝐫
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
